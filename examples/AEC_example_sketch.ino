@@ -6,7 +6,7 @@ with the Arduino Ethernet Controller Pro App.
 
 These functions are:
 
-  - setup the element which should be importet in the app.
+  - setup the element which should be imported in the app.
   - give the Arduino a name that is displayed in the network scan.
   - create easy feedbacks to display in your feedback cell.
   - change the arduino name and ip address over the app
